@@ -14,7 +14,7 @@ Functional Proggraming + Clean Code + Perfomance
 
 ### Studys
 
-School Jonh F. Kennedy (Lanus) - "IT TECHNICIAN"
+High School Jonh F. Kennedy (Lanus) - "IT TECHNICIAN"
 
 College Universidad de San Martin (San martin) - "Programming in Python"
 
