@@ -12,7 +12,7 @@ Management of repositories GIT
 
 Functional Proggraming + Clean Code + Perfomance
 
-### Studys
+### Studies
 
 High School Jonh F. Kennedy (Lanus) - "IT TECHNICIAN"
 
