@@ -2,7 +2,7 @@
 
 Software Developer Jr. - Python Backend.
 
-##STACK
+### STACK
 
 PYTHON - OOP, Data Analystics , AI.
 
