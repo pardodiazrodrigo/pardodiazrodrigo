@@ -1,14 +1,20 @@
 ### Pardo Diaz, Rodrigo Federico
 
-Full Stack Developer
+Software Developer Jr. - Python Backend.
 
-Language: PYTHON
+##STACK
 
-Framework: DJANGO
+PYTHON - OOP, Data Analystics , AI.
 
-DDBB: SQL (MySQL)
+DJANGO - Web development.
 
-Management of repositories GIT
+LIBRARIES - Pandas, Numpy, TensorFlow, PyUnit, Collections, etc.
+
+DDBB - SQL (MySQL - PostgreSQL)
+
+GIT / GITHUB - Management of repositories and versions.
+
+HTML5, CSS, JAVASCRIPT (Basic)
 
 Functional Proggraming + Clean Code + Perfomance
 
