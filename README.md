@@ -4,19 +4,15 @@ Python Developer
 
 ### Stack
 
-PYTHON - OOP, Data Analystics , AI.
+PYTHON - OOP, Data Science , AI.
 
-DJANGO - Web development.
-
-LIBRARIES - Pandas, Numpy, TensorFlow, PyUnit, Collections, etc.
+DJANGO - Web Apps.
 
 DDBB - SQL (MySQL - PostgreSQL)
 
 GIT / GITHUB - Management of repositories and versions.
 
 HTML5, CSS, JAVASCRIPT (Basic)
-
-Functional Proggraming + Clean Code + Perfomance
 
 ### Studies
 
@@ -31,7 +27,6 @@ College Universidad de Buenos Aires (CABA) - "Software Engineer" (in progress)
 Spanish - Native
 
 English - Advanced 
-
 
 
 <!--
