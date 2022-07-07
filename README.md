@@ -1,6 +1,6 @@
 ### Pardo Diaz, Rodrigo Federico
 
-Software Developer - Python Backend.
+Python Developer
 
 ### Stack
 
