@@ -18,7 +18,7 @@ HTML5, CSS, JAVASCRIPT (Basic)
 
 High School Jonh F. Kennedy (Lanus) - "IT TECHNICIAN"
 
-College Universidad de San Martin (San martin) - "Programming in Python"
+College Universidad de San Martin (San martin) - "Programming in Python - Data Analytics"
 
 College Universidad de Buenos Aires (CABA) - "Software Engineer" (in progress)
 
