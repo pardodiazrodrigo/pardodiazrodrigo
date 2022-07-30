@@ -4,29 +4,17 @@ Python Developer
 
 ### Stack
 
-PYTHON - OOP, Data Science , AI.
+PYTHON - DJANGO - DJANGO REST - UNIT TESTING
 
-DJANGO - Web Apps.
-
-DDBB - SQL (MySQL - PostgreSQL)
+SQL - POSTGRESQL / MYSQL
 
 GIT / GITHUB - Management of repositories and versions.
 
-HTML5, CSS, JAVASCRIPT (Basic)
+JSON - DOCKER - AWS
 
-### Studies
+TDD - AGILE METHODOLOGIES - MULTITHREAD PROGRAMMING
 
-High School Jonh F. Kennedy (Lanus) - "IT TECHNICIAN"
-
-College Universidad de San Martin (San martin) - "Programming in Python - Data Analytics"
-
-College Universidad de Buenos Aires (CABA) - "Software Engineer" (in progress)
-
-### Languages
-
-Spanish - Native
-
-English - Advanced 
+HTML5, CSS, JAVASCRIPT
 
 
 <!--
