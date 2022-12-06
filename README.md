@@ -12,7 +12,7 @@ GIT - GITHUB - DOCKER - TDD
 
 HTML5 - CSS - JAVASCRIPT - JSON 
 
-[![pardodiazrodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardodiazrodrigo)]
+![PardoRodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardodiazrodrigo&show_icons=true&theme=transparent)
 
 
 <!--
