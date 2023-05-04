@@ -1,16 +1,17 @@
-### Pardo Diaz, Rodrigo Federico
+### Pardo Diaz, Rodrigo.
 
-Python Developer
+Software Developer
 
-### Stack
+### Background
 
-PYTHON - DJANGO - DJANGO REST - UNIT TESTING - FLASK
+I have experience as a backend developer, where I have worked with the following technologies:
 
-SQL - POSTGRESQL / MYSQL - MONGODB
+PYTHON, DJANGO, FLASK, SQL, BOOTSTRAP
+NODEJS, EXPRESS, MONGODB, JAVASCRIPT, CSS, HTML, JSON
 
-GIT - GITHUB - DOCKER - TDD
+And also I have experience as a data engineer, where I use the following technologies:
 
-HTML5 - CSS - JAVASCRIPT - JSON 
+PYTHON, SQL, AIRFLOW, DOCKER, AWS S3.
 
 ![PardoRodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardodiazrodrigo&show_icons=true&theme=transparent)
 
