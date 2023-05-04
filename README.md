@@ -7,6 +7,7 @@ Software Developer
 I have experience as a backend developer, where I have worked with the following technologies:
 
 PYTHON, DJANGO, FLASK, SQL, BOOTSTRAP
+
 NODEJS, EXPRESS, MONGODB, JAVASCRIPT, CSS, HTML, JSON
 
 And also I have experience as a data engineer, where I use the following technologies:
