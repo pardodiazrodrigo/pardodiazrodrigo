@@ -14,7 +14,6 @@ And also I have experience as a data engineer, where I use the following technol
 
 PYTHON, SQL, AIRFLOW, DOCKER, AWS S3.
 
-![PardoRodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardodiazrodrigo&show_icons=true&theme=transparent)
 
 
 <!--
